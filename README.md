@@ -32,7 +32,7 @@ Launching the application: <br/>
 <br />
 <br />
 <p align="center">
-: <br/>
+Selection of solid and values: <br/>
 <img src="https://i.imgur.com/ZI84oYq.png" width="80%" alt ="Interfaces"/>
 <br />
 <br />
