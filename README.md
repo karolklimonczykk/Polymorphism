@@ -22,7 +22,7 @@ Classes modeling individual solids are defined in the form of a hierarchy built 
 
 <h2>Program walk-through:</h2>
 <p align="center">
-Diagram of shapes package: <br/>
+Diagram of classes implementing the application logic: <br/>
 <img src="https://i.imgur.com/5udkhhf.png" width="80%" alt ="DiagramOfClasses"/>
 <br />
 <br />
