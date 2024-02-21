@@ -4,11 +4,6 @@ import javax.swing.*;
 import java.awt.*;
 //import java.awt.geom.*;
 
-
-/**
- *
- * @author Grzegorz
- */
 public class CPaintPanel extends JPanel {
     private int Width;
     private int Height;
