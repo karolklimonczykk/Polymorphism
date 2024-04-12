@@ -14,12 +14,6 @@ Classes modeling individual solids are defined in the form of a hierarchy built 
 
 - <b>IntelliJ IDEA 2023.3.3</b>
 
-<h2>Libraries Used</h2>
-
-- javax.swing.*;
-- java.awt.*;
-- java.net.*;
-
 <h2>Program walk-through:</h2>
 <p align="center">
 Diagram of classes implementing the application logic: <br/>
